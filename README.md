@@ -1,5 +1,5 @@
 # SnakeGame
-Thsi game is one of the most popular retro games. In thesnake game the player maneuvers a line which grows in length, with the line itself being a primary obstacle.
+Thsi game is one of the most popular retro games. In the snake game the player maneuvers a line which grows in length, with the line itself being a primary obstacle.
 
 ## Description
 This game is built only using python. It makes use of packages and modules such as pygame and random.
